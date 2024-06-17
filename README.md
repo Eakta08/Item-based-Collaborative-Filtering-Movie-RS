@@ -6,7 +6,7 @@ This is a project based on Collaborative Filtering Recommendation System (Item-b
 
 ### Instructions how to go about it:
 1. **Run this code for installation of necessary libraries :** ```!pip install streamlit pickle```(if required) <br><br>
-2. **Run the jupyter file 'Item-based collaborative filtering.ipynb' to get pickle files i.e `data.pkl` and `similarity.pkl`**<br><br>
+2. **Execute the contents of jupyter file 'Item-based collaborative filtering.ipynb' to get pickle files i.e `data.pkl` and `similarity.pkl`**<br><br>
 3. **Open Anaconda Prompt, enter the current directory of the folder using 'cd' command :** ```cd folder_path```.
    <br>**For Example:** ```cd C:\Users\Desktop\Github\Item-based-Collaborative-Filtering-Movie-RS```<br><br> 
 4. **Run this command after step3 , to launch your streamlit app :** ```streamlit run app.py``` (make sure you have entered the current directory where app.py is present using 'cd' command)
